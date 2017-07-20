@@ -1,0 +1,4 @@
+[15-May-2017 18:00:29 UTC] PHP Fatal error:  Class 'apiIdecap\Http\Controllers\Usuario' not found in /home/idecap/public_html/apimovil/app/Http/Controllers/SincronizarController.php on line 208
+[16-May-2017 06:47:48 UTC] PHP Parse error:  syntax error, unexpected '$user_id' (T_VARIABLE) in /home/idecap/public_html/apimovil/app/Http/Controllers/SincronizarController.php on line 504
+[16-May-2017 06:48:21 UTC] PHP Parse error:  syntax error, unexpected '$matricula_id' (T_VARIABLE) in /home/idecap/public_html/apimovil/app/Http/Controllers/SincronizarController.php on line 506
+[16-May-2017 06:48:58 UTC] PHP Parse error:  syntax error, unexpected '$Matricula' (T_VARIABLE) in /home/idecap/public_html/apimovil/app/Http/Controllers/SincronizarController.php on line 510
